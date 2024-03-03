@@ -1,9 +1,7 @@
-# CYBERANYA 2023
-## Crafting Digital Dreams
+# Pragnya 2024
 
 =======================================================
-  * Page Name: Cyberanya
-  * Uploaded: Nov 18 2023
-  * Page URL: https://bit.ly/cyberanya/
-  * Author: https://linkedin.com/in/geekblower
+  * Page Name: pragnya
+  * Uploaded: mar 4 2024
+ 
 ========================================================
