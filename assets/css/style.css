@@ -487,7 +487,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url(../img/hero-bg.png) top center;
+  background: url(../img/sample.gif) top center;
   background-size: cover;
   overflow: hidden;
   position: relative;
